@@ -1,3 +1,5 @@
+![Can't load iamge](screenshot.png)
+
 # About Polygon Front
 A simple GUI for downloading and saving aggregates from Polygon.io's API.
 Users can either insert a ticker or search for one using Polygon's search feature.
