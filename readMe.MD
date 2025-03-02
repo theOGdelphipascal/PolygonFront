@@ -1,4 +1,4 @@
-![Can't load iamge](screenshot.png)
+![Can't load image](screenshot.PNG)
 
 # About Polygon Front
 A simple GUI for downloading and saving aggregates from Polygon.io's API.
